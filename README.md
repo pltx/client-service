@@ -1,6 +1,10 @@
 # pltx client service
 
-The background service for pltx.
+[![Tests status](https://github.com/pltx/client-service/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/pltx/client-service/actions)
+[![Made with Rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)](https://www.rust-lang.org/)
+![Apache 2.0 or MIT license](https://img.shields.io/badge/License-Apache_2.0_or_MIT-blue.svg)
+
+The background service for pltx client applications.
 
 ## License
 
