@@ -1,0 +1,11 @@
+[package]
+name = "client-service"
+version = "0.0.1"
+license = "MIT OR Apache-2.0"
+edition = "2021"
+documentation = "https://github.com/pltx/client-service"
+repository = "https://github.com/pltx/client-service"
+homepage = "https://github.com/pltx/client-service"
+authors = ["Slekup <opensource@slekup.com>"]
+
+[dependencies]
